@@ -19,6 +19,7 @@ Click on the "Download" button to get the required archives.
 # Remove the "cross" folder in /opt and the ".vscode" folder in fos_cygwin.
 # Extract cross.rar and .vscode.rar, then move the "cross" folder to fos_cygwin/opt 
 # and the ".vscode" folder to fos_cygwin.
+# replace RunVSCode.bat with RunVSCode.sh
 ```
 
 ## Add Toolchain to PATH
